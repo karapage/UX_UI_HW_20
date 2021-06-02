@@ -15,6 +15,7 @@ nav {
     background-color: #194350;
     margin: -10px;
     padding-top: 10px;
+    z-index: 100;
 }
 
 nav img {
