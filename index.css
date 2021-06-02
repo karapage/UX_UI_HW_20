@@ -16,6 +16,7 @@ nav {
     margin: -10px;
     padding-top: 10px;
     z-index: 100;
+    float: inherit;
 }
 
 nav img {
